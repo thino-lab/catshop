@@ -1,0 +1,106 @@
+{
+ "updatedAt": "2026-10-29T06:54:01.143Z",
+ "shop": {
+  "address": "台北市（範例地址）",
+  "bookingUrl": "https://calendar.google.com/calendar/appointments/schedules/AcZssZ3bso2dcd7-9FqsgtjXsY-IU66E4P5Es5JT-8kzbUkHkAjzdpQ9aU0yjzG9n0zaW04oTmaklDyh?gv=true",
+  "hours": "每天 13:00–21:00",
+  "shopName": "小貓日常貓舍（範例）",
+  "tagline": "在家繁殖、親人健康的幼貓，歡迎預約來看看"
+ },
+ "cats": [
+  {
+   "id": 3,
+   "name": "麻糬",
+   "breed": "布偶貓",
+   "sex": "F",
+   "dob": "2026-08-20",
+   "color": "海豹色雙色",
+   "registered": true,
+   "price": 45000,
+   "status": "available",
+   "hot": true,
+   "publicNote": "很黏人，喜歡被抱著。已打第一劑疫苗、已驅蟲，適合第一次養貓的家庭。",
+   "coverId": "m3",
+   "photos": [
+    {
+     "id": "m3",
+     "kind": "photo",
+     "file": "media/3/m3.jpg",
+     "thumb": "media/3/m3-t.jpg"
+    },
+    {
+     "id": "m4",
+     "kind": "photo",
+     "file": "media/3/m4.jpg",
+     "thumb": "media/3/m4-t.jpg"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "小虎",
+   "breed": "美國短毛貓",
+   "sex": "M",
+   "dob": "2026-09-10",
+   "color": "銀虎斑",
+   "registered": false,
+   "price": 32000,
+   "status": "notyet",
+   "hot": false,
+   "publicNote": "還在媽媽身邊長大中，滿 8 週後就可以接回家。",
+   "coverId": "m5",
+   "photos": [
+    {
+     "id": "m5",
+     "kind": "photo",
+     "file": "media/4/m5.jpg",
+     "thumb": "media/4/m5-t.jpg"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "豆花",
+   "breed": "蘇格蘭摺耳貓",
+   "sex": "M",
+   "dob": "2026-08-01",
+   "color": "藍白",
+   "registered": false,
+   "price": 52000,
+   "status": "available",
+   "hot": false,
+   "publicNote": "個性穩定不怕生，適合有小孩的家庭。",
+   "coverId": "m7",
+   "photos": [
+    {
+     "id": "m7",
+     "kind": "photo",
+     "file": "media/6/m7.jpg",
+     "thumb": "media/6/m7-t.jpg"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "黑糖",
+   "breed": "孟加拉貓",
+   "sex": "M",
+   "dob": "2026-07-28",
+   "color": "棕色豹紋",
+   "registered": false,
+   "price": 60000,
+   "status": "available",
+   "hot": true,
+   "publicNote": "活潑愛玩，花紋很漂亮。",
+   "coverId": "m8",
+   "photos": [
+    {
+     "id": "m8",
+     "kind": "photo",
+     "file": "media/7/m8.jpg",
+     "thumb": "media/7/m8-t.jpg"
+    }
+   ]
+  }
+ ]
+}
